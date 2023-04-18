@@ -1,0 +1,26 @@
+body{
+    /* background-color: #c95bea; */
+    background-image: url('https://www.designyourway.net/blog/wp-content/uploads/2018/11/pexels-photo-1352751-700x455.jpg');
+}
+
+.res_page{
+    margin-left: 10%;
+}
+
+.heading_box{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    height: 95px;
+    width: 87%;
+    background-color: #ae9fe1;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 40px;
+    color : rgb(34, 33, 33);
+}
+
+.res{
+    font-size: 30px;
+    margin-top: 4px;
+}

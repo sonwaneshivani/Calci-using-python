@@ -1,0 +1,46 @@
+body{
+    /* background-color: #c95bea; */
+    background-image: url('https://www.designyourway.net/blog/wp-content/uploads/2018/11/pexels-photo-1352751-700x455.jpg');
+}
+
+.calci_name{
+    color:rgb(4, 35, 107);
+    text-align: center;
+    font-weight:bolder;
+    font-size: 50px;
+    padding-top: 80px;
+    text-decoration: underline;
+}
+
+.form{
+    padding-left: 360px; 
+    padding-top: 40px;
+}
+
+.choose_op{
+    font-size: 30px;
+    color: rgb(4, 8, 250);
+    padding-right: 15px;
+}
+
+.options{
+    height: 28px;
+    width: 100px;
+    margin-right: 10px;
+    background-color: #ccc4f5;
+}
+
+.nums{
+    height: 25px;
+    width: 120px;
+    margin-right: 10px;
+    /* background-color: #f1b6d7; */
+}
+
+.submit{
+    height: 30px;
+    width:70px;
+    border-radius: 25px;
+    background-color:rgb(89, 244, 213);
+    /* padding:20px */
+}
