@@ -44,3 +44,34 @@ body{
     background-color:rgb(89, 244, 213);
     /* padding:20px */
 }
+
+
+/* Add this CSS for responsiveness */
+@media screen and (max-width: 767px) {
+    body {
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+  
+    .form {
+      padding: 20px;
+    }
+  
+    .calci_name {
+      font-size: 30px;
+      padding-top: 20px;
+    }
+  
+    .choose_op {
+      font-size: 20px;
+      padding-right: 10px;
+    }
+  
+    .options, .nums, .submit {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
+  
